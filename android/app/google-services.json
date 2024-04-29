@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "511302868482",
+    "project_id": "flutter-e-library",
+    "storage_bucket": "flutter-e-library.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:511302868482:android:acd7b136f6dacc1821511b",
+        "android_client_info": {
+          "package_name": "com.example.e_ibrary_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOYWRKxoQHq-r97KXkSpsWUzlXLq03FpM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
